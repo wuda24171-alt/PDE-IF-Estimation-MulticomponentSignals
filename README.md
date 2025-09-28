@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17217611.svg)](https://doi.org/10.5281/zenodo.17217611)
+
 # PDE-IF-Estimation-MulticomponentSignals
 (Partial Differential Equation-Based Instantaneous Frequency Estimation for Multicomponent Signals)
 
